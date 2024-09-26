@@ -29,4 +29,6 @@
 
 ### After clicking the circle, its velocity increases, causing it to move up and down. The position updates through velocity and acceleration, creating a wave effect. Each circle adjusts its position based on adjacent circles, generating bouncing waves that propagate along the line.
 
+### Below is a screenshot of the code running.
+
 ![Screenshot of Interactive Wave Code](readmeImages/screenshot2.png)
